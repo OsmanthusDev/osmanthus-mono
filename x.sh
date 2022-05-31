@@ -33,3 +33,39 @@ mkdir apps/app-rest
 cd apps/core-koa
 npm init -y
 cd ../../
+
+cd apps/core-express
+npm init -y
+cd ../../
+
+cd apps/core-mongo
+npm init -y
+cd ../../
+
+cd apps/core-sqlite
+npm init -y
+cd ../../
+
+cd apps/core-mysql
+npm init -y
+cd ../../
+
+cd apps/core-redis
+npm init -y
+cd ../../
+
+cd apps/core-component
+npm init -y
+cd ../../
+
+cd apps/core-composable
+npm init -y
+cd ../../
+
+cd apps/core-util
+npm init -y
+cd ../../
+
+cd apps/core-common
+npm init -y
+cd ../../
