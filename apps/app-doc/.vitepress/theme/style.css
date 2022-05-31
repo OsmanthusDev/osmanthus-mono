@@ -1,0 +1,13 @@
+:root {
+  --c-brand: #409eff;
+  --c-brand-light: #3298dc;
+}
+h4 {
+  margin-top: 1rem;
+}
+.figure .image {
+  width: 120px;
+}
+.page .container {
+  max-width: 66rem;
+}
