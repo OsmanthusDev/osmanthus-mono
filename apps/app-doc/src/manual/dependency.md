@@ -58,8 +58,11 @@ npm install --save redis
 npm install --save nanoid
 npm install --save uuid
 npm install --save mime-types
+npm install --save http-errors
 npm install --save dotenv
 npm install --save colors
+npm install --save winston
+npm install --save log4js
 ```
 
 ## app-doc
@@ -82,5 +85,3 @@ npm install --save ws
 npm install --save-dev eslint
 npm install --save-dev --save-exact prettier
 ```
-
-

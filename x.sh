@@ -1,5 +1,4 @@
 
-cd apps/core-redis
+cd apps/core-util
 
-npm install --save redis
-
+npm install --save http-errors

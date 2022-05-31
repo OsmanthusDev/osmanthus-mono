@@ -8,5 +8,15 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.1",
+    "http-errors": "^2.0.0",
+    "log4js": "^6.5.2",
+    "mime-types": "^2.1.35",
+    "nanoid": "^3.3.4",
+    "uuid": "^8.3.2",
+    "winston": "^3.7.2"
+  }
 }
